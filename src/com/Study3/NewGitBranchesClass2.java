@@ -6,6 +6,7 @@ public class NewGitBranchesClass2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("it is firstbranch commit");
+		System.out.println("second commit");
 	}
 
 }
