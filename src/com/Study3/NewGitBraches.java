@@ -8,7 +8,8 @@ public class NewGitBraches {
 		int a= 5;
 		int b= 8;
 		int c= a+b;
-		System.out.println("it is common branch "+ a*b/c);
+		int d= a+(c*b);
+		System.out.println("it is common branch "+ (a*b/c)*d);
 	}
 
 }
